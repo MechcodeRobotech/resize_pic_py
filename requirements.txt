@@ -1,6 +1,0 @@
-Pillow
-pillow-heif
-pillow-avif-plugin
-rawpy
-numpy
-cairosvg
